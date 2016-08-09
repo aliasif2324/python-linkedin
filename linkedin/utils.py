@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 import requests
 from .exceptions import LinkedInError, get_exception_for_error_code
 import sys
